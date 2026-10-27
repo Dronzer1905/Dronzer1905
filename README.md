@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building;Autonomous+underwater+%26+mobile+robots;ROS+2+%7C+SLAM+%7C+Computer+Vision+%7C+Embedded" alt="Typing SVG" />
 
-<br/>
+<h3>Research &amp; Development Head @ <a href="https://github.com/Dreadnought-Robotics">Dreadnought Robotics</a></h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dronzer1905/Dronzer1905/output/github-snake-dark.svg" />
@@ -24,8 +24,8 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" />
       <img src="https://img.shields.io/badge/ROS2-0d1117?style=flat-square&logo=ros&logoColor=00ff41" />
-      <img src="https://img.shields.io/badge/Gazebo-0d1117?style=flat-square&logoColor=00ff41" />
-      <img src="https://img.shields.io/badge/DepthAI-0d1117?style=flat-square&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/🧪_Gazebo-0d1117?style=flat-square&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/👁️_DepthAI-0d1117?style=flat-square&logoColor=00ff41" />
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/Dronzer1905/mira"><b>Mira AUV Firmware</b></a>
@@ -43,8 +43,8 @@
       LiDAR-based mapping and localization experiments — a collection of ROS workspaces covering Hector SLAM (stock and customized), raw LiDAR bring-up, and Xbox controller teleoperation.
       <br/><br/>
       <img src="https://img.shields.io/badge/ROS-0d1117?style=flat-square&logo=ros&logoColor=00ff41" />
-      <img src="https://img.shields.io/badge/SLAM-0d1117?style=flat-square&logoColor=00ff41" />
-      <img src="https://img.shields.io/badge/LiDAR-0d1117?style=flat-square&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/📍_SLAM-0d1117?style=flat-square&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/📡_LiDAR-0d1117?style=flat-square&logoColor=00ff41" />
     </td>
   </tr>
 </table>
@@ -57,17 +57,17 @@
   <img src="https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&color=0d1117" />
   <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41&color=0d1117" />
   <img src="https://img.shields.io/badge/ROS2-0d1117?style=for-the-badge&logo=ros&logoColor=00ff41&color=0d1117" />
-  <img src="https://img.shields.io/badge/GAZEBO-0d1117?style=for-the-badge&logoColor=00ff41&color=0d1117" />
+  <img src="https://img.shields.io/badge/🧪_GAZEBO-0d1117?style=for-the-badge&logoColor=00ff41&color=0d1117" />
   <img src="https://img.shields.io/badge/LINUX-0d1117?style=for-the-badge&logo=linux&logoColor=00ff41&color=0d1117" />
   <img src="https://img.shields.io/badge/DOCKER-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41&color=0d1117" />
 </p>
 
 <p align="center">
   <b>Also:</b>
-  <img src="https://img.shields.io/badge/SLAM-0d1117?style=flat-square&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/YOLO-0d1117?style=flat-square&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/OAK--D-0d1117?style=flat-square&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/PixHawk-0d1117?style=flat-square&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/📍_SLAM-0d1117?style=flat-square&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/🎯_YOLO-0d1117?style=flat-square&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/📷_OAK--D-0d1117?style=flat-square&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/🛩️_PixHawk-0d1117?style=flat-square&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Embedded-0d1117?style=flat-square&logo=arduino&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/URDF-0d1117?style=flat-square&logo=ros&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/uv-0d1117?style=flat-square&logo=astral&logoColor=00ff41" />
