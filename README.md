@@ -1,3 +1,5 @@
+<h1 align="center">Ankan Mondal</h1>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building;Autonomous+underwater+%26+mobile+robots;ROS+2+%7C+SLAM+%7C+Computer+Vision+%7C+Embedded" alt="Typing SVG" />
@@ -88,7 +90,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:ankanmondal1905@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
-  <a href="https://www.linkedin.com/in/ankanmondal1905"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
   <a href="https://github.com/Dronzer1905"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
 </p>
