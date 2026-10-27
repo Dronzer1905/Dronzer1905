@@ -80,3 +80,15 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dronzer1905&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&count_private=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=Dronzer1905&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakNum=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=c9d1d9&dates=6e7681&border=00ff41&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dronzer1905&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:ankanmondal1905@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+  <a href="https://www.linkedin.com/in/ankanmondal1905"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+  <a href="https://github.com/Dronzer1905"><img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+</p>
